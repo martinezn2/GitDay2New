@@ -5,6 +5,12 @@ public class Cart {
     //total
     //promo code
 
-
     //commit now
+
+    //Updated:
+    //deals
+    //new deals
+    //commit again
+
+
 }
