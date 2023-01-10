@@ -7,4 +7,8 @@ public class Sales {
     //25% off
     //now commit
 
+    //making one more change
+    //more items on sale added
+    //commit again
+
 }
