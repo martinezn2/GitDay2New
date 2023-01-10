@@ -11,4 +11,9 @@ public class Sales {
     //more items on sale added
     //commit again
 
+    //added Holiday sales
+    //deals
+    //commit again
+
+
 }
