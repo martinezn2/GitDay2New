@@ -12,6 +12,9 @@ public class Homepage {
     //more things for homepage
     //logo added
 
+    //2nd updated:
+    //add footer
+
 
 
 
